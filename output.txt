@@ -1,0 +1,76 @@
+
+==============================================================================================================================
+Sample 1950s house, No retrofits, Winter -- Data from EnerGuide homeowner information sheet
+==============================================================================================================================
+
+=== House Geometry ===
+Volume: 433 m^3
+Gross floor area: 285.3 m^2
+
+=== Retrofits Information ===
+Cost: $0.00
+Cost per Square Foot: $0.00
+Embodied carbon: 0 kgCO2e
+Embodied carbon per Gross Floor Area: 0.0 kgCO2e/m2
+
+=== House Heating Systems Information === 
+Operational carbon per month: 916 kgCO2e
+Maximum heating power: 18000 W
+Required heating power to maintain constant temperature (counteract envelope heat loss): 6793 W
+
+==============================================================================================================================
+Sample 1950s house, No retrofits, Summer -- Data from EnerGuide homeowner information sheet
+==============================================================================================================================
+
+=== House Geometry ===
+Volume: 433 m^3
+Gross floor area: 285.3 m^2
+
+=== Retrofits Information ===
+Cost: $0.00
+Cost per Square Foot: $0.00
+Embodied carbon: 0 kgCO2e
+Embodied carbon per Gross Floor Area: 0.0 kgCO2e/m2
+
+=== House Heating Systems Information === 
+Operational carbon per month: 0 kgCO2e
+Maximum heating power: -3200 W
+Required heating power to maintain constant temperature (counteract envelope heat loss): -1089 W
+
+==============================================================================================================================
+Same 1950s house, with proposed added retrofits, Winter
+==============================================================================================================================
+
+=== House Geometry ===
+Volume: 433 m^3
+Gross floor area: 285.3 m^2
+
+=== Retrofits Information ===
+Cost: $16644.58
+Cost per Square Foot: $5.42
+Embodied carbon: 613 kgCO2e
+Embodied carbon per Gross Floor Area: 2.15 kgCO2e/m2
+
+=== House Heating Systems Information ===
+Operational carbon per month: 0 kgCO2e
+Maximum heating power: 18000 W
+Required heating power to maintain constant temperature (counteract envelope heat loss): 1882 W
+
+==============================================================================================================================
+Same 1950s house, with proposed added retrofits, Summer
+==============================================================================================================================
+
+=== House Geometry ===
+Volume: 433 m^3
+Gross floor area: 285.3 m^2
+
+=== Retrofits Information ===
+Cost: $16644.58
+Cost per Square Foot: $5.42
+Embodied carbon: 613 kgCO2e
+Embodied carbon per Gross Floor Area: 2.15 kgCO2e/m2
+
+=== House Heating Systems Information ===
+Operational carbon per month: 0 kgCO2e
+Maximum heating power: -7034 W
+Required heating power to maintain constant temperature (counteract envelope heat loss): -302 W
